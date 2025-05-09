@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PerfilCandidato",
+            "request": "launch",
+            "mainClass": "PerfilCandidato",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "ListaSala",
+            "request": "launch",
+            "mainClass": "ListaSala",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "CriarSalas",
+            "request": "launch",
+            "mainClass": "CriarSalas",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "ListaInscritos",
+            "request": "launch",
+            "mainClass": "ListaInscritos",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Connetor",
+            "request": "launch",
+            "mainClass": "Connetor",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Admin",
+            "request": "launch",
+            "mainClass": "Admin",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Incricao",
+            "request": "launch",
+            "mainClass": "Incricao",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Signform",
+            "request": "launch",
+            "mainClass": "Signform",
+            "projectName": "bie_1d5b8142"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Loginform",
+            "request": "launch",
+            "mainClass": "Loginform",
+            "projectName": "bie_1d5b8142"
+        }
+    ]
+}
