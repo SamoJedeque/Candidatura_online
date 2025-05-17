@@ -38,3 +38,4 @@ VSCode
 Servidor MySQL ou MariaDB
 
 Driver JDBC (incluso ou adicionado ao classpath)
+![Image](https://github.com/user-attachments/assets/df2cc086-6934-4a45-a55a-8805459db8d2)
